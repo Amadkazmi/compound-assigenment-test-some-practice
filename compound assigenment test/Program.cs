@@ -62,7 +62,11 @@ string userage;
 Console.WriteLine("Pls verify your age for log in");
 userage = Console.ReadLine();
 bool  Enteronly = myVar >18;
+<<<<<<< HEAD
 Console.WriteLine($"only access if you are over 18 year old :{myVar > 18}");
+=======
+Console.WriteLine($"only access over 18 year old :{myVar} ");
+>>>>>>> 14d32926021375cda3a012414640f89c75b22b5f
 
 
 
