@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "compound assigenment test", "compound assigenment test\compound assigenment test.csproj", "{F73BD965-02B8-46EB-B0B2-81AE3B2229CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F73BD965-02B8-46EB-B0B2-81AE3B2229CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F73BD965-02B8-46EB-B0B2-81AE3B2229CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F73BD965-02B8-46EB-B0B2-81AE3B2229CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F73BD965-02B8-46EB-B0B2-81AE3B2229CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43FE04DE-358D-425C-80C8-F7739B80C921}
+	EndGlobalSection
+EndGlobal
